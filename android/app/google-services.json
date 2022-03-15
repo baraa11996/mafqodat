@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659187947048",
+    "project_id": "mfqodaty-app",
+    "storage_bucket": "mfqodaty-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659187947048:android:8bc745dd9f8f25f621071d",
+        "android_client_info": {
+          "package_name": "com.example.mfqodaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659187947048-2f8mbhicruh6sgti9ruuarv0grue35l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4cDaUyGhDMciSNnuf_bl7_l0qKm_p9pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659187947048-2f8mbhicruh6sgti9ruuarv0grue35l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
